@@ -1,6 +1,3 @@
-# Tim Jarvis
-# Module 11: Hill Cipher
-# Due Date: August 14, 2022
 
 import numpy as np
 
